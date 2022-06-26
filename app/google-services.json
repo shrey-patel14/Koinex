@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660378236760",
+    "project_id": "koinex2-b5dc0",
+    "storage_bucket": "koinex2-b5dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660378236760:android:a1224aeb5a98bea257972d",
+        "android_client_info": {
+          "package_name": "com.monty.cryptoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660378236760-vsife81f3a3vjnc12t828lemuc0djrc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ao50LD5mMWuCm7OxiklHMqdo1GwLXpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660378236760-vsife81f3a3vjnc12t828lemuc0djrc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
