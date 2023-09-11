@@ -18,5 +18,4 @@ Here are some screenshots of the Koinex
 
 ![image](https://github.com/shrey-patel14/Koinex/assets/92334431/6a25f6dd-2532-4a3a-b522-2ff373a1f978)     ![image](https://github.com/shrey-patel14/Koinex/assets/92334431/6a3d43e3-155e-41ca-9a04-7df9bf5fad3e)
 
-![image](https://github.com/shrey-patel14/Koinex/assets/92334431/6f853b24-3600-4627-8242-b630d85fb06b)     ![image](https://github.com/shrey-patel14/Koinex/assets/92334431/33ff2062-90e1-4071-b58a-a47270409581)
-
+![image](https://github.com/shrey-patel14/Koinex/assets/92334431/6f853b24-3600-4627-8242-b630d85fb06b)
